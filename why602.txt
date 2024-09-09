@@ -1,0 +1,7 @@
+My motivation for taking DATA602 is twofold: academic and personal. I have been a frequent user of neural networks during many projects in my undergraduate studies. Intriguingly, the fact that data-driven models learn from examples to make predictions was one driving force, and thus I am excited to dive deeper into the understanding of the principles of data science.
+
+Also, by playing cricket and being interested in statistics, I have gathered rather big datasets with relation to performance analysis of players, outcomes of matches and many other metrics.  It is in this practical exposure to working with cricket statistics that I realized the effectiveness of data arriving at insights and driving strategic decisions. This interest in athletics and data analyses further created an urge in me to explore methodologies and techniques applied in the data science field.
+
+It is this gap in my practical experience with neural networks, coupled with the passion for statistical analysis in cricket, that I expect to be bridged by undertaking DATA602. I look forward with enthusiasm to learning the underlying concepts of data science-data gathering, statistical analysis, and machine learning-and how these can be applied to solve real-world problems. 
+
+This is a great opportunity to build on previously gained knowledge in data science, integrate prior experiences, and apply those insights to academic and personal interests.
